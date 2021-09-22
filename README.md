@@ -1,4 +1,4 @@
-# dshsa
+# Deep-Sky Hunter Star Atlas Index
 Index for Deep-Sky Hunter Star Atlas
 - Messier objects
 - Caldwell objects
