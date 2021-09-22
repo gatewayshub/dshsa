@@ -9,3 +9,5 @@ Link to Deep-Sky Hunter Star Atlas
 http://www.deepskywatch.com/deep-sky-hunter-atlas.html
 
 Special thanks to Michael Vlasov
+
+Copyright (c) Philipp Stiegler 2021
